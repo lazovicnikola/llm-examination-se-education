@@ -1,0 +1,86 @@
+Database Search Strategy
+
+1. ACM Digital Library
+
+Search Scope:
+
+* Title
+* Abstract
+* Last 5 years
+
+Search String:
+(LLM* OR "large language model*" OR "generative AI" OR genAI) AND ("software engineering" OR "computer science") AND (education OR learning OR assessment OR exam*) AND student*
+
+Results:
+
+* Title search: 3 studies
+* Abstract search: 280 studies
+
+---
+
+2. IEEE Xplore
+
+Search Scope:
+
+* Abstract
+* Document Title
+
+Search Strings:
+
+Abstract Search:
+(("Abstract":LLM) OR ("Abstract":"large language model") OR ("Abstract":"generative ai") OR ("Abstract":"genAI"))
+AND
+(("Abstract":"software engineering") OR ("Abstract":"computer science"))
+AND
+(("Abstract":"education") OR ("Abstract":"learning") OR ("Abstract":"assessment") OR ("Abstract":"exam"))
+AND
+("Abstract":student)
+
+Results:
+
+* 157 studies
+
+Document Title Search:
+(("Document Title":LLM) OR ("Document Title":"large language model") OR ("Document Title":"generative ai") OR ("Document Title":"genAI"))
+AND
+(("Document Title":"software engineering") OR ("Document Title":"computer science"))
+AND
+(("Document Title":"education") OR ("Document Title":"learning") OR ("Document Title":"assessment") OR ("Document Title":"exam"))
+AND
+("Document Title":student)
+
+Results:
+
+* 4 studies
+
+---
+
+3. Scopus
+
+Search Scope:
+
+* Title and Abstract
+
+Search String:
+TITLE-ABS(("large language model*" OR LLM* OR "generative AI" OR genAI) AND "software engineering" AND student* AND (education OR learning OR assessment OR exam*))
+AND PUBYEAR > 2021
+
+Results:
+
+* Initial search: 130 studies
+* Refined search with higher education/university filters: 31 studies
+
+---
+
+4. Web of Science
+
+Search Scope:
+
+* Abstract
+
+Search String:
+AB=(("large language model*" OR LLM* OR "generative AI" OR "genAI") AND ("software engineering" OR "computer science") AND student* AND (education OR assessment OR exam*))
+
+Results:
+
+* 195 studies
