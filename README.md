@@ -1,4 +1,4 @@
-# llm-examination-se-education
+# Replication Package: Use of Generative AI in Examination Contexts
 
 This repository contains the anonymous replication package for the master thesis:
 
