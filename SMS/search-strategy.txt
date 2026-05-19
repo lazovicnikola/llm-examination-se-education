@@ -13,8 +13,7 @@ Search String:
 
 Results:
 
-* Title search: 3 studies
-* Abstract search: 280 studies
+* 280 studies
 
 ---
 
@@ -36,9 +35,6 @@ AND
 AND
 ("Abstract":student)
 
-Results:
-
-* 157 studies
 
 Document Title Search:
 (("Document Title":LLM) OR ("Document Title":"large language model") OR ("Document Title":"generative ai") OR ("Document Title":"genAI"))
@@ -51,7 +47,7 @@ AND
 
 Results:
 
-* 4 studies
+* 164 studies
 
 ---
 
