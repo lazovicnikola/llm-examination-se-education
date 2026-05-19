@@ -17,14 +17,15 @@ Master of Science in Computer Science with Specialization in Software Engineerin
 
 This repository contains the supplementary materials used in the thesis.
 
-### SMS
+## SMS
 
-Contains the materials related to the Systematic Mapping Study (SMS), including the search and selection process, snowballing procedure, study classification, data extraction, and analysis.
+Contains the materials related to the Systematic Mapping Study (SMS), including the search and selection process, snowballing procedure, study classification, data extraction, search strategy documentation, and analysis.
 
-#### Files
+### Files
 
 - `systematic-mapping-study.xlsx`
 - `data-extraction-analysis.xlsx`
+- `search-strategy.txt`
 
 ---
 
