@@ -1,31 +1,44 @@
-# llm-examination-se-education
+llm-examination-se-education
 
-Anonymous replication package for the master thesis:
+This repository contains the anonymous replication package for the master thesis:
 
-"Use of Generative AI in Examination Contexts in a Swedish University"
+Use of Generative AI in Examination Contexts in a Swedish University
 
-## Repository Structure
+Author:
 
-### SMS/
+Nikola Lazovic
+Mälardalen University
+School of Innovation, Design and Engineering
+Master of Science in Computer Science with Specialization in Software Engineering
 
-This folder contains the materials related to the Systematic Mapping Study (SMS), including the study selection process, snowballing procedure, inclusion and exclusion criteria, and the extracted data used during the analysis.
+Repository Contents
+
+This repository contains the supplementary materials used in the thesis.
+
+SMS
+
+Contains the materials related to the Systematic Mapping Study (SMS), including the search and selection process, snowballing, study classification, data extraction, and analysis.
 
 Files:
-- `systematic-mapping-study.xlsx`
-- `data-extraction-analysis.xlsx`
 
-### Survey/
+systematic-mapping-study.xlsx
+data-extraction-analysis.xlsx
+Survey
 
-This folder contains the survey instruments and anonymized survey response datasets used in the empirical part of the study.
+Contains the survey instruments and anonymized survey responses collected during the empirical part of the study.
 
 Files:
-- `student-survey-questions.pdf`
-- `staff-survey-questions.pdf`
-- `student-survey-responses-anonymized.xlsx`
-- `staff-survey-responses-anonymized.xlsx`
 
-## Notes
+student-survey-questions.pdf
+staff-survey-questions.pdf
+student-survey-responses-anonymized.xlsx
+staff-survey-responses-anonymized.xlsx
+Data Anonymization
 
-- All survey responses were anonymized before publication.
-- Personally identifiable information and optional contact information were removed from the datasets.
-- This repository contains the materials necessary to support transparency and replication of the reported study findings.
+All empirical data included in this repository has been anonymized.
+
+No personally identifiable information is included in the survey datasets. Timestamps, optional contact information, and other identifying details were removed before publication.
+
+Notes
+
+Some files may need to be downloaded locally to be viewed properly, especially Excel files.
